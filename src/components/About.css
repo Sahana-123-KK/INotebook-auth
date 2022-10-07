@@ -1,0 +1,9 @@
+.profile {
+  border: 2px solid hotpink;
+  border-radius: 7px;
+  height: 65vh;
+  width: 50vw;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}

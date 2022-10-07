@@ -1,0 +1,24 @@
+.modaldisplay {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  height: 50vh;
+  left: 30vw;
+  bottom: 25vh;
+  border-radius: 10px;
+  padding: 25px;
+  border: 2px solid tomato;
+  justify-content: space-around;
+  background-color: #cfe2ff;
+}
+.modaldisplay input {
+  padding: 7px;
+  border: none;
+  border-radius: 10px;
+}
+.flexrow{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
